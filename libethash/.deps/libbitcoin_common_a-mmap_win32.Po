@@ -1,0 +1,4 @@
+cpp-ethereum/libethash/libbitcoin_common_a-mmap_win32.o: \
+ cpp-ethereum/libethash/mmap_win32.c /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
